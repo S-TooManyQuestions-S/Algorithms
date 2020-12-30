@@ -1,0 +1,5 @@
+DimEmployee.EmployeeKey,DimEmployee.FirstName,DimEmployee.LastName,DimEmployee.Title,DimEmployee.LoginID,DimEmployee.Phone,DimEmployee.Gender,DimEmployee.PayFrequency
+3
+DimEmployee.Title <> 'Marketing Assistant'
+DimEmployee.Gender <> 'F'
+DimEmployee.PayFrequency >= 20

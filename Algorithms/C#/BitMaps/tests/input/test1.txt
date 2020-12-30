@@ -1,0 +1,4 @@
+FactResellerSales.SalesOrderLineNumber,DimSalesTerritory.SalesTerritoryRegion,DimEmployee.PayFrequency,DimDate.EnglishDayNameOfWeek,DimProduct.EnglishProductName,DimReseller.Phone
+2
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimSalesTerritory.SalesTerritoryCountry <> 'United States'

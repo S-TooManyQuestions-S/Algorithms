@@ -1,0 +1,3 @@
+FactResellerSales.SalesOrderLineNumber,DimSalesTerritory.SalesTerritoryRegion,DimEmployee.PayFrequency,DimDate.EnglishDayNameOfWeek,DimProduct.EnglishProductName,DimReseller.Phone
+1
+DimSalesTerritory.SalesTerritoryCountry <> 'none'

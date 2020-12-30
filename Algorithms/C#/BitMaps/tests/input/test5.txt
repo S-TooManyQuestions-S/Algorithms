@@ -1,0 +1,17 @@
+DimEmployee.EmployeeKey,DimEmployee.FirstName,DimEmployee.LastName,DimEmployee.Title,DimEmployee.BirthDate,DimEmployee.LoginID,DimEmployee.EmailAddress,DimEmployee.Phone,DimEmployee.MaritalStatus,DimEmployee.Gender,DimEmployee.PayFrequency,DimEmployee.VacationHours,DimEmployee.SickLeaveHours,DimEmployee.DepartmentName,DimEmployee.StartDate
+15
+DimEmployee.EmployeeKey = 296
+DimEmployee.FirstName = 'Lynn'
+DimEmployee.LastName = 'Tsoflias'
+DimEmployee.Title = 'Sales Representative'
+DimEmployee.BirthDate = '1970-10-16'
+DimEmployee.LoginID = 'adventure-works\lynn0'
+DimEmployee.EmailAddress = 'lynn0@adventure-works.com'
+DimEmployee.Phone = '1 (11) 500 555-0190'
+DimEmployee.MaritalStatus = 'S'
+DimEmployee.Gender = 'F'
+DimEmployee.PayFrequency = 2
+DimEmployee.VacationHours = 36
+DimEmployee.SickLeaveHours = 38
+DimEmployee.DepartmentName = 'Sales'
+DimEmployee.StartDate = '2012-12-28'
