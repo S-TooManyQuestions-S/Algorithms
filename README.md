@@ -8,5 +8,13 @@ Each algorithm implemetation contains following folders and files:
 * description for build (optional)
 * credits (optional)
 
+Following algorithms and data structures are implemented:
+* Roaring Bitmap (Invisible Join Method) - C#
+* Cuckoo-Filter - C++
+* R-Tree (using Gdal Library) - C++
+* B-Tree (complete implemetation) - C++
+* Graham algorithm - C#, C++
+* Manacher algorithm - C#
+
 ***
 > Credits: FCS HSE Student Samarenko Andrew
